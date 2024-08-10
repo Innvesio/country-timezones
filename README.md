@@ -1,4 +1,4 @@
-# country-timezones
+# country-timezones-id
 
 `country-timezones` is an npm package that allows you to retrieve the timezones associated with a given country name. It's simple to use and comes with a pre-defined list of all countries and their respective timezones.
 
@@ -18,7 +18,7 @@ Import the package and use the getTimezonesByCountry function to retrieve timezo
 
 ```javascript
 Copy code
-const { getTimezonesByCountry } = require('country-timezones-yourname');
+const { getTimezonesByCountry } = require('country-timezones-id');
 
 const timezones = getTimezonesByCountry('United States');
 console.log(timezones);
