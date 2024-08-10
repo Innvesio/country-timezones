@@ -1,5 +1,5 @@
 {
-  "name": "country-timezones",
+  "name": "country-timezones-id",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,5 +7,14 @@
   },
   "author": "Innvesio Lab",
   "license": "ISC",
-  "description": ""
+  "description": "A package that returns timezones for a given country name",
+  "keywords": [
+    "country",
+    "timezones",
+    "world",
+    "timezone-conversion",
+    "internationalization",
+    "geography",
+    "npm-package"
+  ]
 }
